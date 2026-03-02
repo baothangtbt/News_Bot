@@ -24,7 +24,7 @@ RSS_SOURCES = {
     "CafeF_ChungKhoan": "https://cafef.vn/thi-truong-chung-khoan.rss",
     "CafeF_BatDongSan": "https://cafef.vn/bat-dong-san.rss",
     "VnEx_TheGioi": "https://vnexpress.net/rss/the-gioi.rss"
-    "https://vnexpress.net.rss"
+  
 }
 # ==============================================================
 
