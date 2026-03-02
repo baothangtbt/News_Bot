@@ -1,4 +1,4 @@
-# 🤖 Bot Điểm Tin & Phân Tích Tài Chính bằng AI (Gemini)
+#  Bot Điểm Tin by tbt
 
 Bot Telegram tự động quét tin tức tài chính, chứng khoán từ các trang báo lớn (CafeF, VnExpress) và sử dụng trí tuệ nhân tạo **Google Gemini (Gen 3 / 2.5)** để phân tích, tóm tắt và đánh giá tác động thị trường. Hệ thống chạy hoàn toàn tự động (Serverless) thông qua **GitHub Actions**.
 
