@@ -15,7 +15,7 @@ WATCH_KEYWORDS = [
     "chứng khoán", "fed", "lãi suất", "lạm phát", "dầu mỏ", "ngân hàng",
     "bất động sản", "nhà ở", "sắt thép", "đầu tư công", "xuất khẩu", "tỷ giá",
     "vnindex", "vn-index", "cổ phiếu", "trái phiếu", "krx", "tiền ảo", 
-    "crypto", "ngoại tệ", "fdi", "thuế", "chính phủ"
+    "crypto", "ngoại tệ", "fdi", "thuế", "chính phủ", "Israel", "Iran"
 ]
 
 RSS_SOURCES = {
