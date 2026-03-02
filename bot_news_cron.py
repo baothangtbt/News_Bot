@@ -13,7 +13,9 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 WATCH_KEYWORDS = [
     "bitcoin", "giá vàng", "chiến tranh", "thương mại", 
     "chứng khoán", "fed", "lãi suất", "lạm phát", "dầu mỏ", "ngân hàng",
-    "bất động sản", "nhà ở", "sắt thép", "đầu tư công", "xuất khẩu", "tỷ giá"
+    "bất động sản", "nhà ở", "sắt thép", "đầu tư công", "xuất khẩu", "tỷ giá",
+    "vnindex", "vn-index", "cổ phiếu", "trái phiếu", "krx", "tiền ảo", 
+    "crypto", "ngoại tệ", "fdi", "thuế", "chính phủ"
 ]
 
 RSS_SOURCES = {
