@@ -106,7 +106,7 @@ def scan_news():
     print("🚀 Bắt đầu quét tin tức (Cron Job)...")
     # Tính thời gian cutoff: Lấy tin xuất bản trong vòng 130 phút trước
     # Cho dư ra 10 phút so với chu kỳ 120 phút của cron để tránh sót tin
-    cutoff_time = time.time() - (130 * 60) 
+    cutoff_time = time.time() - (420 * 60) 
     
     for source, url in RSS_SOURCES.items():
         try:
