@@ -2,8 +2,8 @@ name: Financial News Bot
 
 on:
   schedule:
-    # Chạy mỗi 2 tiếng (120 phút) một lần (Cú pháp Cron UTC)
-    - cron: '0 */2 * * *'
+    # Chạy mỗi 6 tiếng (120 phút) một lần (Cú pháp Cron UTC)
+    - cron: '0 */12 * * *'
   # Cho phép kích hoạt thủ công bằng nút bấm trên GitHub
   workflow_dispatch: 
 
